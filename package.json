@@ -20,6 +20,6 @@
     "koishi": "^4.18.1"
   },
   "dependencies": {
-    "@cordisjs/plugin-http": "^0.3.3"
+    "@cordisjs/plugin-http":""
   }
 }
